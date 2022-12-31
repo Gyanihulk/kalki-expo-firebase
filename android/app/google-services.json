@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "392773039354",
+    "project_id": "kalki-app",
+    "storage_bucket": "kalki-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392773039354:android:e4b8fb7bd43bc40fec4543",
+        "android_client_info": {
+          "package_name": "com.fitnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392773039354-50deaf1l0tg0nhq6db3d0t5ima776j25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitnessapp",
+            "certificate_hash": "cb806c7c6e8ebd11475504e30a79ce290cbc3a00"
+          }
+        },
+        {
+          "client_id": "392773039354-ka2tn2u7le7rs6trl7pf5u3fn9kkh898.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARVQxVSEU4cTrattu3cNgLcItckKWCWPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392773039354-ka2tn2u7le7rs6trl7pf5u3fn9kkh898.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392773039354:android:54e12d22e9a137fdec4543",
+        "android_client_info": {
+          "package_name": "com.zomatoclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392773039354-ka2tn2u7le7rs6trl7pf5u3fn9kkh898.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARVQxVSEU4cTrattu3cNgLcItckKWCWPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392773039354-ka2tn2u7le7rs6trl7pf5u3fn9kkh898.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
